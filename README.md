@@ -62,7 +62,7 @@ python evaluate.py --model HViLM-Patho --dataset CINI
 MIT License
 
 ## Contact
-- Pratyay Dutta: pratyay.dutta@stonybrook.edu
+- Pratik Dutta: pratik.dutta@stonybrook.edu
 - Lab: [Davuluri Lab](http://davulurilab.org)
 ```
 
@@ -104,3 +104,4 @@ HViLM/
 │
 └── tests/
     └── test_inference.py
+```
