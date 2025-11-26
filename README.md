@@ -56,15 +56,7 @@ python train_pathogenicity.py --config configs/patho_config.yaml
 python evaluate.py --model HViLM-Patho --dataset CINI
 ```
 
-## Citation
-```bibtex
-@article{dutta2025hvilm,
-  title={HViLM: A Foundation Model for Viral Genomics Enables Multi-Task Prediction of Pathogenicity, Transmissibility, and Host Tropism},
-  author={Dutta, Pratyay and [other authors]},
-  journal={RECOMB},
-  year={2026}
-}
-```
+
 
 ## License
 MIT License
