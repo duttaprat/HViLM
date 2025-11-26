@@ -376,10 +376,16 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 Senior Research Scientist  
 Department of Biomedical Informatics  
 Stony Brook University  
+Email: Pratik.Dutta@stonybrook.edu
 
-- **Email**: Pratik.Dutta@stonybrook.edu
-- **Lab**: [Davuluri Lab](http://davulurilab.org)
-- **Issues**: [GitHub Issues](https://github.com/duttaprat/HViLM/issues)
+**Ramana V. Davuluri**  
+Professor  
+Department of Biomedical Informatics  
+Stony Brook University  
+Email: Ramana.Davuluri@stonybrookmedicine.edu
+
+**Lab**: [Davuluri Lab](https://davulurilab.github.io/)  
+**Issues**: [GitHub Issues](https://github.com/duttaprat/HViLM/issues)
 
 ---
 
