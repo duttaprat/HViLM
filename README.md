@@ -64,7 +64,7 @@ MIT License
 ## Contact
 - Pratik Dutta: pratik.dutta@stonybrook.edu
 - Lab: [Davuluri Lab](http://davulurilab.org)
-```
+
 
 ### **2. Required Files to Add** ⭐ CRITICAL
 
