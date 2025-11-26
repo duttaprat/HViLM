@@ -301,28 +301,9 @@ This demonstrates molecular mimicry as a core pathogenicity mechanism.
 ### **Sequence Length**
 
 - HViLM processes sequences up to **1000 base pairs**
-- For longer sequences, segment into 1000bp chunks
 - Set `MAX_LENGTH` to ~25% of your sequence length (BPE tokenization reduces length by ~4-5x)
 
-### **Class Imbalance**
 
-If your dataset is imbalanced:
-- Use balanced sampling
-- Adjust class weights
-- Or use focal loss (see `train.py` for details)
-
-### **GPU Memory**
-
-If running out of memory:
-- Reduce `TRAIN_BATCH` or `EVAL_BATCH`
-- Increase `GRAD_ACC` to maintain effective batch size
-- Use `fp16` training (enabled by default)
-
-### **LoRA Configuration**
-
-- Default: `r=8, alpha=16, dropout=0.1` works well for most tasks
-- For more complex tasks: increase `r` to 16 or 32
-- For small datasets: reduce `r` to 4 to prevent overfitting
 
 ---
 
@@ -394,7 +375,7 @@ Email: Ramana.Davuluri@stonybrookmedicine.edu
 - Built upon [DNABERT-2](https://github.com/MAGICS-LAB/DNABERT_2) by Zhou et al.
 - Pre-training data from [VIRION database](https://virion.verena.org)
 - Benchmark datasets from [BV-BRC](https://www.bv-brc.org) and [Virus-Host DB](https://www.genome.jp/virushostdb/)
-- Funded by NIH grants R01LM013722 and R21 Trailblazer Award
+
 
 ---
 
