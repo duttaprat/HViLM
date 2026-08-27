@@ -318,12 +318,12 @@ If you use HViLM or HVUE v2 in your research, please cite:
 
 ```bibtex
 @article{dutta2026hvilm,
-  title={HViLM: A Foundation Model for Viral Genomics Enables Multi-Task
-         Prediction of Pathogenicity, Transmissibility, and Host Tropism},
-  author={Dutta, Pratik and Vaska, Jack and Surana, Pallavi and Sathian, Rekha
-          and Chao, Max and Zhou, Zhihan and Liu, Han and Davuluri, Ramana V.},
-  journal={mSystems},
-  year={2026}
+  title={HViLM: A foundation model for viral genomics enables multi-task prediction of pathogenicity, transmissibility, and host tropism},
+  author={Dutta, Pratik and Vaska, Jack and Surana, Pallavi and Sathian, Rekha and Chao, Max and Zhou, Zhihan and Liu, Han and Davuluri, Ramana V},
+  journal={bioRxiv},
+  pages={2026--03},
+  year={2026},
+  publisher={Cold Spring Harbor Laboratory}
 }
 ```
 
