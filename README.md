@@ -11,7 +11,7 @@
 **Journal**: mSystems (2026)  
 **Authors**: Pratik Dutta, Jack Vaska, Pallavi Surana, Rekha Sathian, Max Chao, Zhihan Zhou, Han Liu, and Ramana V. Davuluri
 
-> ⚠️ **HVUE v1 notice:** The original HVUE benchmark ([duttaprat/HVUE](https://huggingface.co/datasets/duttaprat/HVUE)) contained substantial cross-split sequence similarity that can inflate estimates of held-out generalization. **[HVUE v2](https://huggingface.co/datasets/duttaprat/HVUE-v2)** replaces those splits with leakage-controlled, cluster-aware benchmarks. Results reported using HVUE v2 evaluations reported here.
+> ⚠️ **HVUE v1 notice:** The original HVUE benchmark ([duttaprat/HVUE](https://huggingface.co/datasets/duttaprat/HVUE)) was removed due to substantial cross-split sequence similarity that can inflate estimates of held-out generalization. **[HVUE v2](https://huggingface.co/datasets/duttaprat/HVUE-v2)** replaces those splits with leakage-controlled, cluster-aware benchmarks. Results reported using HVUE v2 evaluations reported here.
 
 ---
 
