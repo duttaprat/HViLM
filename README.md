@@ -384,10 +384,8 @@ Weights & Biases tracks training loss, F1, MCC, confusion matrices, learning rat
 
 ```bibtex
 @article{dutta2026hvilm,
-  title={HViLM: A foundation model for viral genomics enables multi-task
-         prediction of pathogenicity, transmissibility, and host tropism},
-  author={Dutta, Pratik and Vaska, Jack and Surana, Pallavi and Sathian, Rekha
-          and Chao, Max and Zhou, Zhihan and Liu, Han and Davuluri, Ramana V},
+  title={HViLM: A foundation model for viral genomics enables multi-task prediction of pathogenicity, transmissibility, and host tropism},
+  author={Dutta, Pratik and Vaska, Jack and Surana, Pallavi and Sathian, Rekha and Chao, Max and Zhou, Zhihan and Liu, Han and Davuluri, Ramana V},
   journal={bioRxiv},
   pages={2026--03},
   year={2026},
@@ -397,10 +395,8 @@ Weights & Biases tracks training loss, F1, MCC, confusion matrices, learning rat
 
 ```bibtex
 @article{zhou2024dnabert2,
-  title={DNABERT-2: Efficient Foundation Model and Benchmark
-         For Multi-Species Genome},
-  author={Zhou, Zhihan and Ji, Yanrong and Li, Weijian and Dutta, Pratik
-          and Davuluri, Ramana and Liu, Han},
+  title={DNABERT-2: Efficient Foundation Model and Benchmark For Multi-Species Genome},
+  author={Zhou, Zhihan and Ji, Yanrong and Li, Weijian and Dutta, Pratik and Davuluri, Ramana and Liu, Han},
   journal={ICLR},
   year={2024}
 }
